@@ -5,19 +5,22 @@
 - 💽  I'm working on learning more about Node, and building Express Apps.
 - 👍  Looking to connect with other developers.
 - 🎸  Random Fact: I've been a professional bass player working with many award winning artists in Canada for years!
-
 <br />
 
+## Writing
+Take a look at my [blogs] on Medium
 ## Languages and Tools
 
-- Java
-- SQL
+- Node.JS
 - Javascript
+- Express.js
+- Docker
+- Java
 - HTML
 - CSS
-- Node.JS
-- Express.js
 - MongoDB
+- SQL
 - MySQL
 - Oracle DB
 
+[blogs]: https://medium.com/@mikecann
