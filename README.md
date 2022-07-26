@@ -1,7 +1,7 @@
 ### Welcome to my repo, I'm Mike.
 
-## I'm a Student, Developer, Husband and Musician!
-- 🎓  I'm currently in my last semester of an Information Technology Diploma, with a focus on Software Development.
+## I'm a Junior Developer, Husband and Musician!
+- 🎓  I've just completed my Information Technology Diploma in Software Development with Honours.
 - 💽  I'm currently learning more about Node, Express, Docker and utilizting cloud computing.
 - 👍  Looking to connect with other developers.
 - 🎸  Random Fact: I've been a professional bass player working with many award winning artists in Canada for years!
