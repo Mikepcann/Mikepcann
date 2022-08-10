@@ -15,12 +15,12 @@ Take a look at my [blogs] on Medium
 - Javascript
 - Express.js
 - Docker
+- GO
 - Java
 - HTML
 - CSS
 - MongoDB
 - SQL
 - MySQL
-- Oracle DB
 
 [blogs]: https://medium.com/@mikecann
