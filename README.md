@@ -1,26 +1,29 @@
 ### Welcome to my repo, I'm Mike.
 
-## I'm a Junior Developer, Husband and Musician!
-- 🎓  I've just completed my Information Technology Diploma in Software Development with Honours.
-- 💽  I'm currently learning more about Node, Express, Docker and utilizting cloud computing.
+## I'm a Junior Fullstack Developer, Husband and Musician!
+- 🎓  Proud graduate of SAIT and reciepient of the Information Technology Diploma in Software Development with Honours.
+- 💻  Currently Working as a fullstack developer, focusing on web apps and cross platform mobile applications.
 - 👍  Looking to connect with other developers.
 - 🎸  Random Fact: I've been a professional bass player working with many award winning artists in Canada for years!
 <br />
 
-## Writing
-Take a look at my [blogs] on Medium
 ## Languages and Tools
 
-- Node.JS
 - Javascript
-- Express.js
+- React
+- React Native/Expo
+- Node/Express
+- Golang
 - Docker
-- GO
-- Java
-- HTML
-- CSS
+- Heroku
+- HTML/CSS
 - MongoDB
 - SQL
 - MySQL
+- Java
+- Github/Gitlab
+
+## Writing
+Take a look at my [blogs] on Medium
 
 [blogs]: https://medium.com/@mikecann
